@@ -1,0 +1,14 @@
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\bin\Debug\net6.0\TwoSums C#.exe
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\bin\Debug\net6.0\TwoSums C#.deps.json
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\bin\Debug\net6.0\TwoSums C#.runtimeconfig.json
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\bin\Debug\net6.0\TwoSums C#.dll
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\bin\Debug\net6.0\TwoSums C#.pdb
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\TwoSums C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\TwoSums C#.AssemblyInfoInputs.cache
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\TwoSums C#.AssemblyInfo.cs
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\TwoSums C#.csproj.CoreCompileInputs.cache
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\TwoSums C#.dll
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\refint\TwoSums C#.dll
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\TwoSums C#.pdb
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\TwoSums C#.genruntimeconfig.cache
+G:\My Drive\CS\LeetCode\Two Sums\TwoSums C#\obj\Debug\net6.0\ref\TwoSums C#.dll
