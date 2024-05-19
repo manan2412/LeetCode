@@ -1,0 +1,28 @@
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.AssemblyInfoInputs.cache
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.AssemblyInfo.cs
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.csproj.CoreCompileInputs.cache
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.exe
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.deps.json
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.runtimeconfig.json
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.dll
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.pdb
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.dll
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\refint\FindPalinString.dll
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.pdb
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.genruntimeconfig.cache
+G:\My Drive\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\ref\FindPalinString.dll
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.exe
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.deps.json
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.runtimeconfig.json
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.dll
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\bin\Debug\net6.0\FindPalinString.pdb
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.AssemblyInfoInputs.cache
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.AssemblyInfo.cs
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.csproj.CoreCompileInputs.cache
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.dll
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\refint\FindPalinString.dll
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.pdb
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\FindPalinString.genruntimeconfig.cache
+C:\Users\manan\Desktop\CS\LeetCode\FindFirstPalindromicStringInTheArray\FindPalinString\obj\Debug\net6.0\ref\FindPalinString.dll
