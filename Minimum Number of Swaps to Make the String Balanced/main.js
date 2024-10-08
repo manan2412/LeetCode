@@ -20,8 +20,8 @@ var minSwaps = function(s){
 
 
 
-// s = "][]["
+s = "][]["
 // s = "]]][[["
 // s = "[]"
-s = ""
+// s = ""
 console.log(minSwaps(s));
